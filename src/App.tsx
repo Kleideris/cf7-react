@@ -14,7 +14,8 @@ function App() {
         <ArrowFunctionalComponentWithProps title="is an Arrow Component with Props"/>
         <ArrowFunctionalComponentWithPropsType
             title="is an Arrow Component with Props"
-        description="This is an Description"/>
+        description="This is an Description"
+        />
     </>
   )
 }
